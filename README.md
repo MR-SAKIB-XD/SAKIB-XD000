@@ -6,4 +6,4 @@ git clone https://github.com/MR-SAKIB-XD/SAKIB-XD000
 
 cd Commend.txt
 
-python Tbomb.py
+python Commend.txt.py
